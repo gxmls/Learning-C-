@@ -1,5 +1,5 @@
 #include<iostream>
-#include<cmath>//pow函数需要头文件cmath
+#include<cmath>  //pow函数需要头文件cmath
 using namespace std;
 int main()
 {
